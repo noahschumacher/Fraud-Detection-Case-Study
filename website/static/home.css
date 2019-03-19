@@ -1,0 +1,18 @@
+#HomeHeader{
+	background-color: #dc9191;
+	border: 5px dashed white;
+	margin: 25px;
+	padding: 25px;
+}
+
+#HomeHeader2{
+	background-color: #aff3a3;
+	border: 5px dashed green;
+	margin: 25px;
+	padding: 25px;
+}
+
+img {
+    height: 220px;
+    width: 400px;
+}
