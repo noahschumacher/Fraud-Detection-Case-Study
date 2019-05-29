@@ -1,11 +1,10 @@
 # Fraud Detection Case Study
 
-For the next two days we will work with the entire end to end pipeline of data science through a case study.  We have touched on aspects of this throughout the course but have not yet put all the pieces together.
+This case study analyzes event posting features to determine if the posting is fraudulent. This project is wrapped up in a Flask webapplication that sources live updates from the event posting page and flags potentially fraudulent postings.
 
 Topics included in this case study include:
 * Classification modeling.
 * Programming Practice: Handing off models. 
-* Teamwork.
 * Web applications.
 * Website hosting with AWS
 * Deploying a DS application.
